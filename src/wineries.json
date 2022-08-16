@@ -7,11 +7,13 @@
       "street": "14463 Woodinville Redmond Road NE",
       "city": "Woodinville",
       "state": "WA",
-      "postcode": 98072
+      "postcode": "98072"
     },
     "phone": "425-466-2027",
     "logo-path": "https://www.amaurice.com/assets/images/logo.png",
-    "description": "Estate and Walla Walla, Yakima, and Colombia grown grapes. Practices sustainable viticulture. This is one of my favorites!"
+    "description": "Estate and Walla Walla, Yakima, and Colombia grown grapes. Practices sustainable viticulture. This is one of my favorites!",
+    "website": "www.amaurice.com",
+    "web-link": "href='https://www.amaurice.com/'"
   },
   {
     "district": "Hollywood",
@@ -21,11 +23,13 @@
       "street": "13590 NE Village Square Dr Suite 1040",
       "city": "Woodinville",
       "state": "WA",
-      "postcode": 98072
+      "postcode": "98072"
     },
     "phone": "425-408-1969",
     "logo-path": "https://www.adamsbench.com/wp-content/themes/massive-dynamic-child/img/logo.png",
-    "description": "Produces ~1,000 cases/year and focuses on Cabernet Sauvignon and Cabernet blends. It's a super small husband-and-wife duo and are a good fit for serious red wine lovers who want to find the places no one is talking about."
+    "description": "Produces ~1,000 cases/year and focuses on Cabernet Sauvignon and Cabernet blends. It's a super small husband-and-wife duo and are a good fit for serious red wine lovers who want to find the places no one is talking about.",
+    "website": "adamsbench.com",
+    "web-link": "href='http://adamsbench.com/'"
   },
   {
     "district": "Hollywood",
@@ -35,10 +39,117 @@
       "street": "14810 NE 145th St A3, Woodinville",
       "city": "Woodinville",
       "state": "WA",
-      "postcode": 98072
+      "postcode": "98072"
     },
     "phone": "425-483-7026",
-    "logo-path": "https://www.adamsbench.com/wp-content/themes/massive-dynamic-child/img/logo.png",
-    "description": "Amavi was one of our favorites in Walla Walla and they have a tasting room in Woodinville with their sister winery, Pepper Bridge."
+    "logo-path": "https://www.pepperbridge.com/wp-content/themes/pepper-bridge/img/logo-header.svg",
+    "description": "Amavi was one of our favorites in Walla Walla and they have a tasting room in Woodinville with their sister winery, Pepper Bridge.",
+    "website": "www.pepperbridge.com",
+    "web-link": "href='https://www.pepperbridge.com/'"
+  },
+  {
+    "name": "JM Cellars",
+    "favorite": true,
+    "location": {
+      "street": "14404 137th Pl NE",
+      "city": "Woodinville",
+      "state": "WA",
+      "postcode": "98072"
+    },
+    "phone": "425-485-6508",
+    "logo-path": "https://uploads-ssl.webflow.com/5f934d77b68ed77798ae9ca4/5f936e9df00d8b7eb7ae31b1_JM_Logo%201.png",
+    "description": "This was recommended by a friend & Wine Folly, a PNW wine genius. It's small batch, family-owned, and has beautiful grounds with a secluded forest trail. I love this place.",
+    "website": "jmcellars.com",
+    "web-link": "href='https://www.jmcellars.com/'"
+  },
+  {
+    "name": "Obelisco Estate",
+    "favorite": true,
+    "location": {
+      "street": "14525 148th Ave NE",
+      "city": "Woodinville",
+      "state": "WA",
+      "postcode": "98072"
+    },
+    "phone": "425-892-2610",
+    "logo-path": "https://obelisco.com/wp-content/uploads/2015/10/obelisco-estate-logo.png",
+    "description": "Recommended by Eater & has won awards for wines. Two locations, one in Hollywood & one in Warehouse District. They have a funky arthouse vibe and beautiful wines.",
+    "website": "www.obelisco.com",
+    "web-link": "href='http://obelisco.com/'"
+  },
+  {
+    "name": "Trust Cellars",
+    "favorite": true,
+    "location": {
+      "street": "14469 Redmond - Woodinville Rd NE",
+      "city": "Woodinville",
+      "state": "WA",
+      "postcode": "98072"
+    },
+    "phone": "425-398-9300",
+    "logo-path": "https://trustcellars.com/images/76.jpg",
+    "description": "A Walla Walla-based winery making beautiful reds. I usually love every wine I try here.",
+    "website": "www.trustcellars.com",
+    "web-link": "href='https://www.trustcellars.com/'"
+  },
+  {
+    "name": "Market Vineyards",
+    "favorite": true,
+    "location": {
+      "street": "14810 NE 145th St Ste A-2",
+      "city": "Woodinville",
+      "state": "WA",
+      "postcode": "98072"
+    },
+    "phone": "425-486-1171",
+    "logo-path": "https://www.marketvineyards.com/assets/images-dark/Market-Vineyards.png",
+    "description": "The winery takes great pride in offering remarkable wines created with hand-picked fruit sourced from premier vineyards in the Columbia Valley and Red Mountain growing regions. Their attention to detail and premium quality is noticed not only in the fruit chosen, but also in the artistic abilities in the cellar.",
+    "website": "www.marketvineyards.com",
+    "web-link": "href='https://www.marketvineyards.com/'"
+  },
+  {
+    "name": "Long Shadows Tasting Room",
+    "favorite": true,
+    "location": {
+      "street": "14450 Redmond - Woodinville Rd NE",
+      "city": "Woodinville",
+      "state": "WA",
+      "postcode": "98072"
+    },
+    "phone": "425-408-1608",
+    "logo-path": "https://transom.sfo3.digitaloceanspaces.com/long-shadows/tradeAndMedia/LS-Distinguished-Wineries-Vineyards-LOGO-01.jpg",
+    "description": "A waiter at The Herb Farm recommended this place to me and it's incredible. They bring winemakers from all over the world under one roof to make well-balanced and yummy wines. Definitely make sure to stop here.",
+    "website": "www.longshadows.com",
+    "web-link": "href='https://longshadows.com/'"
+  },
+  {
+    "name": "DeLille Cellars Carriage House Tasting Room",
+    "favorite": false,
+    "location": {
+      "street": "14208 Redmond - Woodinville Rd NE",
+      "city": "Woodinville",
+      "state": "WA",
+      "postcode": "98052"
+    },
+    "phone": "425-466-0213",
+    "logo-path": "https://chateaulill.com/wp-content/uploads/2019/06/site_logo_resized.png",
+    "description": "Knowns for Bordeaux blends. Is a portfolio company of Bacchus Capital Management, an investment firm providing strategic capital and making equity investments in United States wineries and wine businesses. ",
+    "website": "www.chateaulill.com",
+    "web-link": "href='https://chateaulill.com/'"
+  },
+  {
+    "name": "Gorman Winery - Hollywood District Tasting Room",
+    "favorite": false,
+    "location": {
+      "street": "14505 148th Ave NE",
+      "city": "Woodinville",
+      "state": "WA",
+      "postcode": "98072"
+    },
+    "phone": "206-351-0719",
+    "logo-path": "https://www.washingtontastingroom.com/wp-content/uploads/Gorman-logo-movers18.jpg",
+    "description": "Produces under 8,000 cases a year and focuses primarily on Red Mountain Cabernet Sauvignon and Syrah. I think there wines are just ok, but the Hollywood District location has a full restaurant and the meatballs / pizza are pretty good.",
+    "website": "www.gormanwinery.com",
+    "web-link": "href='http://www.gormanwinery.com/'"
   }
 ]
