@@ -151,5 +151,35 @@
     "description": "Produces under 8,000 cases a year and focuses primarily on Red Mountain Cabernet Sauvignon and Syrah. I think there wines are just ok, but the Hollywood District location has a full restaurant and the meatballs / pizza are pretty good.",
     "website": "www.gormanwinery.com",
     "web-link": "href='http://www.gormanwinery.com/'"
+  },
+  {
+    "name": "Novelty Hill Januik Winery",
+    "favorite": false,
+    "location": {
+      "street": "14710 Redmond - Woodinville Rd NE",
+      "city": "Woodinville",
+      "state": "WA",
+      "postcode": "98072"
+    },
+    "phone": "425-481-5502",
+    "logo-path": "https://www.noveltyhilljanuik.com/wp-content/themes/nhj/images/logo.png",
+    "description": "This is actually two wineries in one. Both Novelty Hill and Januik use the same lead winemaker. They have beautiful grounds and gardens, plus pizza for purchase, which make them a place I often find myself at during group outings. However, I find their staff to always be a bit cold and I don't think the wines warrant the lack of warmth.",
+    "website": "www.noveltyhilljanuik.com",
+    "web-link": "href='https://www.noveltyhilljanuik.com/'"
+  },
+  {
+    "name": "Ryan Patrick Wines Tasting Room",
+    "favorite": false,
+    "location": {
+      "street": "14450 Redmond - Woodinville Rd NE",
+      "city": "Woodinville",
+      "state": "WA",
+      "postcode": "98072"
+    },
+    "phone": "425-949-7972",
+    "logo-path": "https://ryanpatrickwines.com/wp-content/uploads/2015/08/RYAN-PATRICK-LOGO-920320.png",
+    "description": "Intuitive winemaking is the art of letting the fruit speak for itself. Its minimalist intervention combined with consistency of style. That’s the heart of the Ryan Patrick promise: artisanal winemaking where the grape is at the center. The wine is also made artisanally in small batches.",
+    "website": "ryanpatrickwines.com",
+    "web-link": "href='https://ryanpatrickwines.com/'"
   }
 ]
