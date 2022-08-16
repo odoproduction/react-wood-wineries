@@ -1,0 +1,44 @@
+[
+  {
+    "district": "Hollywood",
+    "name": "àMaurice Tasting Room",
+    "favorite": true,
+    "location": {
+      "street": "14463 Woodinville Redmond Road NE",
+      "city": "Woodinville",
+      "state": "WA",
+      "postcode": 98072
+    },
+    "phone": "425-466-2027",
+    "logo-path": "https://www.amaurice.com/assets/images/logo.png",
+    "description": "Estate and Walla Walla, Yakima, and Colombia grown grapes. Practices sustainable viticulture. This is one of my favorites!"
+  },
+  {
+    "district": "Hollywood",
+    "name": "Adams Bench Winery",
+    "favorite": true,
+    "location": {
+      "street": "13590 NE Village Square Dr Suite 1040",
+      "city": "Woodinville",
+      "state": "WA",
+      "postcode": 98072
+    },
+    "phone": "425-408-1969",
+    "logo-path": "https://www.adamsbench.com/wp-content/themes/massive-dynamic-child/img/logo.png",
+    "description": "Produces ~1,000 cases/year and focuses on Cabernet Sauvignon and Cabernet blends. It's a super small husband-and-wife duo and are a good fit for serious red wine lovers who want to find the places no one is talking about."
+  },
+  {
+    "district": "Hollywood",
+    "name": "Pepper Bridge/Amavi Cellars",
+    "favorite": true,
+    "location": {
+      "street": "14810 NE 145th St A3, Woodinville",
+      "city": "Woodinville",
+      "state": "WA",
+      "postcode": 98072
+    },
+    "phone": "425-483-7026",
+    "logo-path": "https://www.adamsbench.com/wp-content/themes/massive-dynamic-child/img/logo.png",
+    "description": "Amavi was one of our favorites in Walla Walla and they have a tasting room in Woodinville with their sister winery, Pepper Bridge."
+  }
+]
