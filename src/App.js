@@ -8,7 +8,7 @@ const App = () => {
     <div className="App">
       <h1>Best Woodenville Wineries</h1>
       <h2>by The Emerald Palate</h2>
-      <div>
+      <div className="card">
         {wineryArray.map((winery) => (
           <Winery
             key={winery.id}

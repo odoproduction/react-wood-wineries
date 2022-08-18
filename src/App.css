@@ -10,10 +10,11 @@ img {
 
 .card {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-auto-rows: 00px;
+  grid-template-columns: repeat(auto-fit, minmax(12rem, 16rem));
+  /* grid-auto-rows: 200px; */
   gap:3rem;
   justify-content: center;
+
 }
 
 .container {

@@ -1,7 +1,8 @@
 const Winery = (props) => {
 console.log(props)
-  return <div className="card">
-    <li className="container">
+  return <div>
+    <div className="container">
+    <li>
       <img src={props.logo} />
       <p><strong>District: </strong>{props.district}</p>
       <p>{props.name}</p>
@@ -13,6 +14,7 @@ console.log(props)
       </ul>
       <a href={props.web_link} >{props.website}</a>
     </li>
+    </div>
   </div>
 }
 
