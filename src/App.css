@@ -1,5 +1,6 @@
 body {
   text-align: center;
+  margin: 2rem;
 }
 
 img {
@@ -8,15 +9,21 @@ img {
 }
 
 .card {
-  display: flex;
-  flex-direction: column;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  transition: 0.3s;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: 00px;
+  gap:3rem;
+  justify-content: center;
 }
 
 .container {
-  margin: 100px;
-  padding: 2px 16px;
+  overflow:hidden;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  border-radius: 2px;
+  display:flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 1rem;
 }
 
 li {
