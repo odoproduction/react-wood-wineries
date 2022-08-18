@@ -1,6 +1,7 @@
 import './App.css'
 import wineryArray from './wineries.json'
 import Winery from './components/Winery'
+import District from './components/District'
 
 const App = () => {
   //console.log()

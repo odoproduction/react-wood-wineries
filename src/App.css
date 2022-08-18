@@ -1,20 +1,20 @@
 body {
   text-align: center;
-  margin: 2rem;
+  padding: 2rem;
+  background-color: rgb(232, 232, 232);
 }
 
 img {
-  max-width: 300px;
+  max-width: 200px;
   max-height: 200px;
 }
 
 .card {
+  padding: 2rem;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(12rem, 16rem));
-  /* grid-auto-rows: 200px; */
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 20rem));
   gap:3rem;
   justify-content: center;
-
 }
 
 .container {
@@ -23,8 +23,10 @@ img {
   border-radius: 2px;
   display:flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: space-evenly;
+  height: 100%;
   padding: 1rem;
+  background-color: #fff;
 }
 
 li {
