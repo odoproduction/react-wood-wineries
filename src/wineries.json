@@ -4,35 +4,31 @@
     "district": "Hollywood",
     "name": "àMaurice Tasting Room",
     "favorite": true,
-    "location": [
-      {
-        "street": "14463 Woodinville Redmond Road NE",
-        "city": "Woodinville",
-        "state": "WA",
-        "postcode": "98072"
-      }
-    ],
+    "location": {
+      "street": "14463 Woodinville Redmond Road NE",
+      "city": "Woodinville",
+      "state": "WA",
+      "postcode": "98072"
+    },
     "phone": "425_466_2027",
     "logo_path": "https://www.amaurice.com/assets/images/logo.png",
     "description": "Estate and Walla Walla, Yakima, and Colombia grown grapes. Practices sustainable viticulture. This is one of my favorites!",
     "website": "www.amaurice.com",
-    "web_link": "href='https://www.amaurice.com/'"
+    "web_link": "https://www.amaurice.com/"
   },
   {
     "id": "002",
     "district": "Hollywood",
     "name": "Adams Bench Winery",
     "favorite": true,
-    "location": [
-      {
-        "street": "13590 NE Village Square Dr Suite 1040",
-        "city": "Woodinville",
-        "state": "WA",
-        "postcode": "98072"
-      }
-    ],
+    "location": {
+      "street": "13590 NE Village Square Dr Suite 1040",
+      "city": "Woodinville",
+      "state": "WA",
+      "postcode": "98072"
+    },
     "phone": "425_408_1969",
-    "logo_path": "https://www.adamsbench.com/wp_content/themes/massive_dynamic_child/img/logo.png",
+    "logo_path": "https://www.adamsbench.com/wp-content/themes/massive-dynamic-child/img/logo.png",
     "description": "Produces ~1,000 cases/year and focuses on Cabernet Sauvignon and Cabernet blends. It's a super small husband_and_wife duo and are a good fit for serious red wine lovers who want to find the places no one is talking about.",
     "website": "adamsbench.com",
     "web_link": "href='http://adamsbench.com/'"
@@ -42,16 +38,14 @@
     "district": "Hollywood",
     "name": "Pepper Bridge/Amavi Cellars",
     "favorite": true,
-    "location": [
-      {
-        "street": "14810 NE 145th St A3, Woodinville",
-        "city": "Woodinville",
-        "state": "WA",
-        "postcode": "98072"
-      }
-    ],
+    "location": {
+      "street": "14810 NE 145th St A3, Woodinville",
+      "city": "Woodinville",
+      "state": "WA",
+      "postcode": "98072"
+    },
     "phone": "425_483_7026",
-    "logo_path": "https://www.pepperbridge.com/wp_content/themes/pepper_bridge/img/logo_header.svg",
+    "logo_path": "https://images.squarespace-cdn.com/content/v1/5ee5f4a9d5b9bf46e49d8163/1592514177889-LVDZCWKHF3RJVP4A2KWB/amavi-name.png?format=2500w",
     "description": "Amavi was one of our favorites in Walla Walla and they have a tasting room in Woodinville with their sister winery, Pepper Bridge.",
     "website": "www.pepperbridge.com",
     "web_link": "href='https://www.pepperbridge.com/'"
@@ -61,16 +55,14 @@
     "district": "Hollywood",
     "name": "JM Cellars",
     "favorite": true,
-    "location": [
-      {
-        "street": "14404 137th Pl NE",
-        "city": "Woodinville",
-        "state": "WA",
-        "postcode": "98072"
-      }
-    ],
+    "location": {
+      "street": "14404 137th Pl NE",
+      "city": "Woodinville",
+      "state": "WA",
+      "postcode": "98072"
+    },
     "phone": "425_485_6508",
-    "logo_path": "https://uploads_ssl.webflow.com/5f934d77b68ed77798ae9ca4/5f936e9df00d8b7eb7ae31b1_JM_Logo%201.png",
+    "logo_path": "https://kazzit.com/custom/domain_1/image_files/sitemgr_photo_123370.jpg",
     "description": "This was recommended by a friend & Wine Folly, a PNW wine genius. It's small batch, family_owned, and has beautiful grounds with a secluded forest trail. I love this place.",
     "website": "jmcellars.com",
     "web_link": "href='https://www.jmcellars.com/'"
@@ -80,14 +72,12 @@
     "district": "Hollywood",
     "name": "Obelisco Estate",
     "favorite": true,
-    "location": [
-      {
-        "street": "14525 148th Ave NE",
-        "city": "Woodinville",
-        "state": "WA",
-        "postcode": "98072"
-      }
-    ],
+    "location": {
+      "street": "14525 148th Ave NE",
+      "city": "Woodinville",
+      "state": "WA",
+      "postcode": "98072"
+    },
     "phone": "425_892_2610",
     "logo_path": "https://obelisco.com/wp_content/uploads/2015/10/obelisco_estate_logo.png",
     "description": "Recommended by Eater & has won awards for wines. Two locations, one in Hollywood & one in Warehouse District. They have a funky arthouse vibe and beautiful wines.",
@@ -99,14 +89,12 @@
     "district": "Hollywood",
     "name": "Trust Cellars",
     "favorite": true,
-    "location": [
-      {
-        "street": "14469 Redmond _ Woodinville Rd NE",
-        "city": "Woodinville",
-        "state": "WA",
-        "postcode": "98072"
-      }
-    ],
+    "location": {
+      "street": "14469 Redmond _ Woodinville Rd NE",
+      "city": "Woodinville",
+      "state": "WA",
+      "postcode": "98072"
+    },
     "phone": "425_398_9300",
     "logo_path": "https://trustcellars.com/images/76.jpg",
     "description": "A Walla Walla_based winery making beautiful reds. I usually love every wine I try here.",
@@ -118,14 +106,12 @@
     "district": "Hollywood",
     "name": "Market Vineyards",
     "favorite": true,
-    "location": [
-      {
-        "street": "14810 NE 145th St Ste A_2",
-        "city": "Woodinville",
-        "state": "WA",
-        "postcode": "98072"
-      }
-    ],
+    "location": {
+      "street": "14810 NE 145th St Ste A_2",
+      "city": "Woodinville",
+      "state": "WA",
+      "postcode": "98072"
+    },
     "phone": "425_486_1171",
     "logo_path": "https://www.marketvineyards.com/assets/images_dark/Market_Vineyards.png",
     "description": "The winery takes great pride in offering remarkable wines created with hand_picked fruit sourced from premier vineyards in the Columbia Valley and Red Mountain growing regions. Their attention to detail and premium quality is noticed not only in the fruit chosen, but also in the artistic abilities in the cellar.",
@@ -137,14 +123,12 @@
     "district": "Hollywood",
     "name": "Long Shadows Tasting Room",
     "favorite": true,
-    "location": [
-      {
-        "street": "14450 Redmond _ Woodinville Rd NE",
-        "city": "Woodinville",
-        "state": "WA",
-        "postcode": "98072"
-      }
-    ],
+    "location": {
+      "street": "14450 Redmond _ Woodinville Rd NE",
+      "city": "Woodinville",
+      "state": "WA",
+      "postcode": "98072"
+    },
     "phone": "425_408_1608",
     "logo_path": "https://transom.sfo3.digitaloceanspaces.com/long_shadows/tradeAndMedia/LS_Distinguished_Wineries_Vineyards_LOGO_01.jpg",
     "description": "A waiter at The Herb Farm recommended this place to me and it's incredible. They bring winemakers from all over the world under one roof to make well_balanced and yummy wines. Definitely make sure to stop here.",
@@ -156,14 +140,12 @@
     "district": "Hollywood",
     "name": "DeLille Cellars Carriage House Tasting Room",
     "favorite": false,
-    "location": [
-      {
-        "street": "14208 Redmond _ Woodinville Rd NE",
-        "city": "Woodinville",
-        "state": "WA",
-        "postcode": "98052"
-      }
-    ],
+    "location": {
+      "street": "14208 Redmond _ Woodinville Rd NE",
+      "city": "Woodinville",
+      "state": "WA",
+      "postcode": "98052"
+    },
     "phone": "425_466_0213",
     "logo_path": "https://chateaulill.com/wp_content/uploads/2019/06/site_logo_resized.png",
     "description": "Knowns for Bordeaux blends. Is a portfolio company of Bacchus Capital Management, an investment firm providing strategic capital and making equity investments in United States wineries and wine businesses. ",
@@ -175,14 +157,12 @@
     "district": "Hollywood",
     "name": "Gorman Winery _ Hollywood District Tasting Room",
     "favorite": false,
-    "location": [
-      {
-        "street": "14505 148th Ave NE",
-        "city": "Woodinville",
-        "state": "WA",
-        "postcode": "98072"
-      }
-    ],
+    "location": {
+      "street": "14505 148th Ave NE",
+      "city": "Woodinville",
+      "state": "WA",
+      "postcode": "98072"
+    },
     "phone": "206_351_0719",
     "logo_path": "https://www.washingtontastingroom.com/wp_content/uploads/Gorman_logo_movers18.jpg",
     "description": "Produces under 8,000 cases a year and focuses primarily on Red Mountain Cabernet Sauvignon and Syrah. I think there wines are just ok, but the Hollywood District location has a full restaurant and the meatballs / pizza are pretty good.",
@@ -194,14 +174,12 @@
     "district": "Hollywood",
     "name": "Novelty Hill Januik Winery",
     "favorite": false,
-    "location": [
-      {
-        "street": "14710 Redmond _ Woodinville Rd NE",
-        "city": "Woodinville",
-        "state": "WA",
-        "postcode": "98072"
-      }
-    ],
+    "location": {
+      "street": "14710 Redmond _ Woodinville Rd NE",
+      "city": "Woodinville",
+      "state": "WA",
+      "postcode": "98072"
+    },
     "phone": "425_481_5502",
     "logo_path": "https://www.noveltyhilljanuik.com/wp_content/themes/nhj/images/logo.png",
     "description": "This is actually two wineries in one. Both Novelty Hill and Januik use the same lead winemaker. They have beautiful grounds and gardens, plus pizza for purchase, which make them a place I often find myself at during group outings. However, I find their staff to always be a bit cold and I don't think the wines warrant the lack of warmth.",
@@ -213,14 +191,12 @@
     "district": "Hollywood",
     "name": "Ryan Patrick Wines Tasting Room",
     "favorite": false,
-    "location": [
-      {
-        "street": "14450 Redmond _ Woodinville Rd NE",
-        "city": "Woodinville",
-        "state": "WA",
-        "postcode": "98072"
-      }
-    ],
+    "location": {
+      "street": "14450 Redmond _ Woodinville Rd NE",
+      "city": "Woodinville",
+      "state": "WA",
+      "postcode": "98072"
+    },
     "phone": "425_949_7972",
     "logo_path": "https://ryanpatrickwines.com/wp_content/uploads/2015/08/RYAN_PATRICK_LOGO_920320.png",
     "description": "Intuitive winemaking is the art of letting the fruit speak for itself. Its minimalist intervention combined with consistency of style. That’s the heart of the Ryan Patrick promise: artisanal winemaking where the grape is at the center. The wine is also made artisanally in small batches.",
