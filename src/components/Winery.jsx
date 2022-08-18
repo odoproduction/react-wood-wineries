@@ -1,5 +1,5 @@
 const Winery = (props) => {
-
+console.log(props)
   return<div>
     <li>
       <img src={props.logo_path} />
@@ -7,7 +7,7 @@ const Winery = (props) => {
       <p>{props.name}</p>
       <p>{props.favorite}</p>
       <p>{props.location}</p>
-      <p>{props.phoneNumber}</p>
+      <p>{props.phone}</p>
       <p>{props.website}</p>
     </li>
   </div>
