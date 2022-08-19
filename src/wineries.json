@@ -202,5 +202,39 @@
     "description": "Intuitive winemaking is the art of letting the fruit speak for itself. Its minimalist intervention combined with consistency of style. That’s the heart of the Ryan Patrick promise: artisanal winemaking where the grape is at the center. The wine is also made artisanally in small batches.",
     "website": "ryanpatrickwines.com",
     "web_link": "https://ryanpatrickwines.com/"
+  },
+  {
+    "id": "013",
+    "district": "Hollywood",
+    "name": "Darby Winery",
+    "favorite": false,
+    "location": {
+      "street": "14450 Redmond - Woodinville Rd NE",
+      "city": "Woodinville",
+      "state": "WA",
+      "postcode": "98072"
+    },
+    "phone": "425-233-7879",
+    "logo_path": "https://uploads.poachedjobs.com/wp-content/uploads/2020/07/28152055/Picture1-300x300.png",
+    "description": "Recommended by a friend. I've had their bottles of wine at events before, but need to head to their tasting room still to let you know if I'd recommend.",
+    "website": "darbywinery.com",
+    "web_link": "https://darbywinery.com/"
+  },
+  {
+    "id": "014",
+    "district": "Hollywood",
+    "name": "Cascade Cliffs Vineyard and Winery",
+    "favorite": false,
+    "location": {
+      "street": "15029 Redmond - Woodinville Rd NE #300",
+      "city": "Woodinville",
+      "state": "WA",
+      "postcode": "98072"
+    },
+    "phone": "425-398-9520",
+    "logo_path": "https://cascadecliffs.orderport.net/Upload/CascadeCliffs/Images/logo-dark2.png",
+    "description": "One of the original wineries in the Columbia River Gorge, Cascade Cliffs has been producing unique, premier wines for over three decades.",
+    "website": "cascadecliffs.com",
+    "web_link": "https://cascadecliffs.com/"
   }
 ]

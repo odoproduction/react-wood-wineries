@@ -8,13 +8,16 @@ import { faWineGlassAlt } from '@fortawesome/free-solid-svg-icons'
 // ReactDOM.render(element, document.body)
 
 function Favorite(props) {
-  let favorite;
-  if (props.favorite == 'True') {
-    favorite = <FontAwesomeIcon icon={faWineGlassEmpty} />
-  } else {
-    favorite = <FontAwesomeIcon icon={faWineGlassAlt} />;
+  let favoriteIcon;
+  if (wineries.favorite == 'True') {
+    favoriteIcon = <FontAwesomeIcon icon={faWineGlassEmpty} />
+  } 
+  else {
+    favoriteIcon = <FontAwesomeIcon icon={faWineGlassAlt} />;
   }
-  return <div>{props.favorite}</div>;
+  console.log(props)
+  
+  return <div><FontAwesomeIcon icon={favoriteIcon}/>TEST</div>;
 }
 
 export default Favorite;
