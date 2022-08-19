@@ -1,7 +1,5 @@
-
-
 function District(props) {
-  console.log(props)
+  // console.log(props)
   let districtColor;
   switch(props.district) {
     case 'Hollywood':
@@ -15,7 +13,7 @@ function District(props) {
   }
   console.log(props)
   return (
-  <div className='district' style={{backgroundColor: districtColor, color: 'black'}}
+  <div className='district_color' style={{backgroundColor: districtColor, color: 'black'}}
   >{props.district}
   </div>
   )

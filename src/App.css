@@ -32,3 +32,19 @@ img {
 li {
   list-style: none;
 }
+
+.district_box {
+  display:flex;
+  flex-wrap:wrap;
+  align-content:center;
+  justify-content: center;
+  /* border: 2px solid black; */
+  margin: 20px;
+}
+
+.district_color {
+  padding: 10px;
+  margin: 10px;
+  text-transform: uppercase;
+  font-size: small;
+}
