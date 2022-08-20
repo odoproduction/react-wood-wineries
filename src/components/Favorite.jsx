@@ -1,19 +1,19 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faWineGlassEmpty } from '@fortawesome/free-solid-svg-icons'
-import { faWineGlassAlt } from '@fortawesome/free-solid-svg-icons'
+import { faWineGlass } from '@fortawesome/free-solid-svg-icons'
 
 
 function Favorite(props) {
   let favorite;
   if (props.favorite) {
-    favorite = <FontAwesomeIcon icon={faWineGlassEmpty} />
+    favorite = faWineGlassEmpty 
   } 
   else {
-    favorite = <FontAwesomeIcon icon={faWineGlassAlt} />;
+    favorite = faWineGlass
   }
   console.log(props)
   
-  return <div><FontAwesomeIcon icon={favorite}/>TEST</div>;
+  return <div><FontAwesomeIcon icon={favorite}/></div>;
 }
 
 export default Favorite;
