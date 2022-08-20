@@ -236,5 +236,56 @@
     "description": "One of the original wineries in the Columbia River Gorge, Cascade Cliffs has been producing unique, premier wines for over three decades.",
     "website": "cascadecliffs.com",
     "web_link": "https://cascadecliffs.com/"
+  },
+  {
+    "id": "015",
+    "district": "Hollywood",
+    "name": "Forgeron Cellars",
+    "favorite": false,
+    "location": {
+      "street": "14344 Redmond - Woodinville Rd NE",
+      "city": "Woodinville",
+      "state": "WA",
+      "postcode": "98052"
+    },
+    "phone": "425-242-8872",
+    "logo_path": "https://pbs.twimg.com/profile_images/1053020646353981440/wSge0TX8_400x400.jpg",
+    "description": "I haven't been her yet, but it was recommended to me by both a friend and a waiter at The Herb Farm who used to work among the wineries.",
+    "website": "forgeroncellars.com",
+    "web_link": "https://www.forgeroncellars.com/"
+  },
+  {
+    "id": "016",
+    "district": "Hollywood",
+    "name": "Lashelle Wines",
+    "favorite": false,
+    "location": {
+      "street": "19501 144th Ave NE C700",
+      "city": "Woodinville",
+      "state": "WA",
+      "postcode": "98072"
+    },
+    "phone": "425-298-3415",
+    "logo_path": "https://img1.wsimg.com/isteam/ip/07ae12a1-cbf3-47cb-b4bf-d577609c6cbb/LW%20Full%20Logo-CMYK-300ppi-Colour.jpg",
+    "description": "The only Black-owned winery in Woodinville, the 2nd in WA.",
+    "website": "lashellewines.com",
+    "web_link": "https://lashellewines.com/"
+  },
+  {
+    "id": "017",
+    "district": "Warehouse",
+    "name": "Obelisco Estate",
+    "favorite": true,
+    "location": {
+      "street": "14525 148th Ave NE",
+      "city": "Woodinville",
+      "state": "WA",
+      "postcode": "98072"
+    },
+    "phone": "425-892-2610",
+    "logo_path": "http://obelisco.com/wp-content/uploads/2015/10/obelisco-estate-logo-1240x698.png",
+    "description": "Recommended by Eater & has won awards for wines. Two locations, one in Hollywood & one in Warehouse District. They have a funky arthouse vibe and beautiful wines.",
+    "website": "www.obelisco.com",
+    "web_link": "http://obelisco.com/"
   }
 ]

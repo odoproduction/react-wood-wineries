@@ -9,7 +9,10 @@ const Winery = (props) => {
     <li>
       <img src={props.logo} alt='logos'/>
       <div><Favorite favorite={props.favorite} /></div>
-      <div><Contact contact={props.location}/></div>
+      <div><Contact 
+        name={props.name}
+        phone={props.phone}
+        contact={props.location}/></div>
         <br></br>
       <a href={props.web_link} >{props.website}</a>
       <div className="district_box"><District district={props.district} /></div>

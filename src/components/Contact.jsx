@@ -1,10 +1,11 @@
 const Contact = (props) => {
 
+  console.log(props)
   return (
     <div>
       <li>{props.name}</li>
-      <li>{props.location.street}</li>
-        <li>{props.location.city}, {props.location.state} {props.location.postcode}</li>
+      <li>{props.contact.street}</li>
+        <li>{props.contact.city}, {props.contact.state} {props.contact.postcode}</li>
         <li>{props.phone}</li>
     </div>
   )
