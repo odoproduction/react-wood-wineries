@@ -6,14 +6,14 @@ import { faWineGlass } from '@fortawesome/free-solid-svg-icons'
 function Favorite(props) {
   let favorite;
   if (props.favorite) {
-    favorite = faWineGlassEmpty 
+    favorite = faWineGlass 
   } 
   else {
-    favorite = faWineGlass
+    favorite = faWineGlassEmpty
   }
   console.log(props)
   
-  return <div><FontAwesomeIcon icon={favorite}/></div>;
+  return <div><FontAwesomeIcon icon={favorite} size = '2x' border/></div>;
 }
 
 export default Favorite;
