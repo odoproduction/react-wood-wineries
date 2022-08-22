@@ -15,7 +15,10 @@ const Winery = (props) => {
         contact={props.location}/></div>
         <br></br>
       <a href={props.web_link} >{props.website}</a>
-      <div className="district_box"><District district={props.district} /></div>
+      <div>      
+        {props.district.map((district) => (
+        <District name={district.name} key={district.id}/>))}</div>
+      {/* <div className="district_box"><District district={props.district} /></div> */}
     </li>
     </div>
   </div>

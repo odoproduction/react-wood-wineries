@@ -1,7 +1,12 @@
 [
   {
     "id": "001",
-    "district": "Hollywood",
+    "district": [
+      {
+        "id": "A",
+        "name": "Hollywood"
+      }
+    ],
     "name": "àMaurice Tasting Room",
     "favorite": true,
     "location": {
@@ -18,7 +23,12 @@
   },
   {
     "id": "002",
-    "district": "Hollywood",
+    "district": [
+      {
+        "id": "A",
+        "name": "Hollywood"
+      }
+    ],
     "name": "Adams Bench Winery",
     "favorite": true,
     "location": {
@@ -35,7 +45,12 @@
   },
   {
     "id": "003",
-    "district": "Hollywood",
+    "district": [
+      {
+        "id": "A",
+        "name": "Hollywood"
+      }
+    ],
     "name": "Pepper Bridge/Amavi Cellars",
     "favorite": true,
     "location": {
@@ -52,7 +67,12 @@
   },
   {
     "id": "004",
-    "district": "Hollywood",
+    "district": [
+      {
+        "id": "A",
+        "name": "Hollywood"
+      }
+    ],
     "name": "JM Cellars",
     "favorite": true,
     "location": {
@@ -69,7 +89,16 @@
   },
   {
     "id": "005",
-    "district": "Hollywood",
+    "district": [
+      {
+        "id": "A",
+        "name": "Hollywood"
+      },
+      {
+        "id": "B",
+        "name": "Warehouse"
+      }
+    ],
     "name": "Obelisco Estate",
     "favorite": true,
     "location": {
@@ -86,7 +115,12 @@
   },
   {
     "id": "006",
-    "district": "Hollywood",
+    "district": [
+      {
+        "id": "A",
+        "name": "Hollywood"
+      }
+    ],
     "name": "Trust Cellars",
     "favorite": true,
     "location": {
@@ -103,7 +137,12 @@
   },
   {
     "id": "007",
-    "district": "Hollywood",
+    "district": [
+      {
+        "id": "A",
+        "name": "Hollywood"
+      }
+    ],
     "name": "Market Vineyards",
     "favorite": true,
     "location": {
@@ -120,7 +159,12 @@
   },
   {
     "id": "008",
-    "district": "Hollywood",
+    "district": [
+      {
+        "id": "A",
+        "name": "Hollywood"
+      }
+    ],
     "name": "Long Shadows Tasting Room",
     "favorite": true,
     "location": {
@@ -137,7 +181,12 @@
   },
   {
     "id": "009",
-    "district": "Hollywood",
+    "district": [
+      {
+        "id": "A",
+        "name": "Hollywood"
+      }
+    ],
     "name": "DeLille Cellars Carriage House Tasting Room",
     "favorite": false,
     "location": {
@@ -154,7 +203,16 @@
   },
   {
     "id": "010",
-    "district": "Hollywood",
+    "district": [
+      {
+        "id": "A",
+        "name": "Hollywood"
+      },
+      {
+        "id": "B",
+        "name": "Warehouse"
+      }
+    ],
     "name": "Gorman Winery Tasting Room",
     "favorite": false,
     "location": {
@@ -171,7 +229,12 @@
   },
   {
     "id": "011",
-    "district": "Hollywood",
+    "district": [
+      {
+        "id": "A",
+        "name": "Hollywood"
+      }
+    ],
     "name": "Novelty Hill Januik Winery",
     "favorite": false,
     "location": {
@@ -188,7 +251,12 @@
   },
   {
     "id": "012",
-    "district": "Hollywood",
+    "district": [
+      {
+        "id": "A",
+        "name": "Hollywood"
+      }
+    ],
     "name": "Ryan Patrick Wines Tasting Room",
     "favorite": false,
     "location": {
@@ -205,7 +273,12 @@
   },
   {
     "id": "013",
-    "district": "Hollywood",
+    "district": [
+      {
+        "id": "A",
+        "name": "Hollywood"
+      }
+    ],
     "name": "Darby Winery",
     "favorite": false,
     "location": {
@@ -222,7 +295,12 @@
   },
   {
     "id": "014",
-    "district": "Hollywood",
+    "district": [
+      {
+        "id": "A",
+        "name": "Hollywood"
+      }
+    ],
     "name": "Cascade Cliffs Vineyard and Winery",
     "favorite": false,
     "location": {
@@ -239,7 +317,12 @@
   },
   {
     "id": "015",
-    "district": "Hollywood",
+    "district": [
+      {
+        "id": "A",
+        "name": "Hollywood"
+      }
+    ],
     "name": "Forgeron Cellars",
     "favorite": false,
     "location": {
@@ -248,44 +331,32 @@
       "state": "WA",
       "postcode": "98052"
     },
-    "phone": "425-242-8872",
-    "logo_path": "https://pbs.twimg.com/profile_images/1053020646353981440/wSge0TX8_400x400.jpg",
-    "description": "I haven't been her yet, but it was recommended to me by both a friend and a waiter at The Herb Farm who used to work among the wineries.",
-    "website": "forgeroncellars.com",
-    "web_link": "https://www.forgeroncellars.com/"
+    "phone": "425-398-9520",
+    "logo_path": "https://cascadecliffs.orderport.net/Upload/CascadeCliffs/Images/logo-dark2.png",
+    "description": "One of the original wineries in the Columbia River Gorge, Cascade Cliffs has been producing unique, premier wines for over three decades.",
+    "website": "cascadecliffs.com",
+    "web_link": "https://cascadecliffs.com/"
   },
   {
     "id": "016",
-    "district": "Hollywood",
-    "name": "Lashelle Wines",
-    "favorite": false,
-    "location": {
-      "street": "19501 144th Ave NE C700",
-      "city": "Woodinville",
-      "state": "WA",
-      "postcode": "98072"
-    },
-    "phone": "425-298-3415",
-    "logo_path": "https://img1.wsimg.com/isteam/ip/07ae12a1-cbf3-47cb-b4bf-d577609c6cbb/LW%20Full%20Logo-CMYK-300ppi-Colour.jpg",
-    "description": "The only Black-owned winery in Woodinville, the 2nd in WA.",
-    "website": "lashellewines.com",
-    "web_link": "https://lashellewines.com/"
-  },
-  {
-    "id": "017",
-    "district": "Warehouse",
-    "name": "Obelisco Estate",
+    "district": [
+      {
+        "id": "B",
+        "name": "Warehouse"
+      }
+    ],
+    "name": "Pondera Winery",
     "favorite": true,
     "location": {
-      "street": "14525 148th Ave NE",
+      "street": "19501 144th Ave NE # B400",
       "city": "Woodinville",
       "state": "WA",
       "postcode": "98072"
     },
-    "phone": "425-892-2610",
-    "logo_path": "http://obelisco.com/wp-content/uploads/2015/10/obelisco-estate-logo-1240x698.png",
-    "description": "Recommended by Eater & has won awards for wines. Two locations, one in Hollywood & one in Warehouse District. They have a funky arthouse vibe and beautiful wines.",
-    "website": "www.obelisco.com",
-    "web_link": "http://obelisco.com/"
+    "phone": "425-486-8500",
+    "logo_path": "https://ponderawinery.com/images/wine%20club%20logo_black%20leaves.png",
+    "description": "Recommended by Eater and a waiter at The Herb Farm. Plus it won wine awards. So obviously I had to try it. And I loved it. A laid back family winery.",
+    "website": "ponderawinery.com",
+    "web_link": "https://www.ponderawinery.com/"
   }
 ]
