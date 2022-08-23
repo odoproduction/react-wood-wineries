@@ -33,6 +33,7 @@ const App = () => {
             phone={winery.phone}
             website={winery.website}
             web_link={winery.web_link}
+            description={winery.description}
           />
         ))}
       </div>
