@@ -7,8 +7,8 @@ const Winery = (props) => {
   return <div>
     <div className="card">
     <li>
-    <div className="img-container"><img src={props.logo} alt='logos'/></div>
-    <div className="fav-icon"><Favorite favorite={props.favorite} /></div>
+      <div className="img-container"><img src={props.logo} alt='logos'/></div>
+      <div className="fav-icon"><Favorite favorite={props.favorite} /></div>
       <div><Contact 
         name={props.name}
         phone={props.phone}

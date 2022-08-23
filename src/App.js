@@ -14,12 +14,11 @@ const App = () => {
       </span>
       <div className="favorite-icon">
         <li>
-          <FontAwesomeIcon icon={faWineGlass} size="2x" fade /> = Favorite
-          Winery
+          <FontAwesomeIcon icon={faWineGlass} size="2x" color="#722f37" /> =
+          Favorite Winery
         </li>
         <li>
-          <FontAwesomeIcon icon={faWineBottle} size="2x" fade /> = Worth
-          Checking Out
+          <FontAwesomeIcon icon={faWineBottle} size="2x" /> = Worth Checking Out
         </li>
       </div>
       <div className="container">

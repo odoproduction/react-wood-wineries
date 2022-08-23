@@ -31,11 +31,11 @@ img {
 }
 
 .titles {
-  font-family: 'Playfair Display';font-size: 22px;
+  font-family: 'Playfair Display', serif;font-size: 22px;
 }
 
 .container {
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Lato', sans-serif;
   padding: 2rem;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(16rem, 20rem));
@@ -64,11 +64,11 @@ li {
   flex-wrap:wrap;
   align-content:center;
   justify-content: center;
-  /* border: 2px solid black; */
   margin: 20px;
 }
 
 .district-list {
+  padding-top: 1rem;
   display: flex;
   align-content: center;
   justify-content: center;
