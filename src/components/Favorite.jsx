@@ -1,5 +1,5 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faWineGlassEmpty } from '@fortawesome/free-solid-svg-icons'
+import { faWineBottle, faWineGlassEmpty } from '@fortawesome/free-solid-svg-icons'
 import { faWineGlass } from '@fortawesome/free-solid-svg-icons'
 
 
@@ -9,7 +9,7 @@ function Favorite(props) {
     favorite = faWineGlass 
   } 
   else {
-    favorite = faWineGlassEmpty
+    favorite = faWineBottle
   }
   console.log(props)
   

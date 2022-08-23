@@ -2,22 +2,23 @@ import './App.css'
 import wineryArray from './wineries.json'
 import Winery from './components/Winery'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faWineGlassEmpty } from '@fortawesome/free-solid-svg-icons'
-import { faWineGlass } from '@fortawesome/free-solid-svg-icons'
+import { faWineBottle, faWineGlass } from '@fortawesome/free-solid-svg-icons'
 
 const App = () => {
   //console.log()
   return (
     <div className="App">
-      <h1>Best Woodenville Wineries</h1>
-      <h2>by The Emerald Palate</h2>
+      <span className="titles">
+        <h1>Best Woodenville Wineries</h1>
+        <h2>by The Emerald Palate</h2>
+      </span>
       <div className="favorite-icon">
         <li>
           <FontAwesomeIcon icon={faWineGlass} size="2x" fade /> = Favorite
           Winery
         </li>
         <li>
-          <FontAwesomeIcon icon={faWineGlassEmpty} size="2x" fade /> = Worth
+          <FontAwesomeIcon icon={faWineBottle} size="2x" fade /> = Worth
           Checking Out
         </li>
       </div>
