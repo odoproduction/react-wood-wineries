@@ -5,7 +5,6 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faWineBottle, faWineGlass } from '@fortawesome/free-solid-svg-icons'
 
 const App = () => {
-  //console.log()
   return (
     <div className="App">
       <span className="titles">
@@ -14,11 +13,12 @@ const App = () => {
       </span>
       <div className="favorite-icon">
         <li>
-          <FontAwesomeIcon icon={faWineGlass} size="2x" color="#722f37" /> =
+          <FontAwesomeIcon icon={faWineGlass} size="2x" color="#601a32" /> =
           Favorite Winery
         </li>
         <li>
-          <FontAwesomeIcon icon={faWineBottle} size="2x" /> = Worth Checking Out
+          <FontAwesomeIcon icon={faWineBottle} size="2x" color="#2f391e" /> =
+          Worth Checking Out
         </li>
       </div>
       <div className="container">

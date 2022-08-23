@@ -1,20 +1,19 @@
 function District(props) {
 
-// console.log(props)
   let districtColor;
   switch(props.name) {
     case 'Hollywood':
-      districtColor = '#F8B195'
+      districtColor = '#6e614c'
       break
     case 'Warehouse':
-      districtColor = '#F67280'
+      districtColor = '#8b8679'
       break
     default:
-      districtColor = '#C06C84'
+      districtColor = '#3c1925'
   }
-  console.log(props)
+  
   return (
-  <div className='district_color' style={{backgroundColor: districtColor, color: 'black'}}
+  <div className='district_color' style={{backgroundColor: districtColor, color: '#fff'}}
   >{props.name}
   </div>
   )

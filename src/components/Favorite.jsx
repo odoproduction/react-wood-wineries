@@ -1,5 +1,5 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faWineBottle, faWineGlassEmpty } from '@fortawesome/free-solid-svg-icons'
+import { faWineBottle } from '@fortawesome/free-solid-svg-icons'
 import { faWineGlass } from '@fortawesome/free-solid-svg-icons'
 
 
@@ -9,15 +9,14 @@ function Favorite(props) {
 
   if (props.favorite) {
     favorite = faWineGlass
-    iconColor = "#722f37"
+    iconColor = "#601a32"
   } 
   else {
     favorite = faWineBottle
+    iconColor = "#2f391e"
   }
-  // console.log(props)
   
-  return <div><FontAwesomeIcon icon={favorite} size = '2x' color={iconColor} border/></div>;
+  return <div><FontAwesomeIcon icon={favorite} size = '2x' color={iconColor} /></div>;
 }
-
 
 export default Favorite;

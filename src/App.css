@@ -1,13 +1,18 @@
 body {
   text-align: center;
   padding: 2rem;
-  background-color: rgb(232, 232, 232);
+  background-color: #ece7e870;
 }
 
 img {
+  filter: grayscale(1);
   max-width: 200px;
   max-height: 200px;
   padding-bottom: 20px
+}
+
+a {
+  color: #1d0d1a;
 }
 
 .img-container {
@@ -55,8 +60,13 @@ img {
   background-color: #fff;
 }
 
-li {
+li, ul {
   list-style: none;
+  padding: 0;
+}
+
+.district-title {
+  padding-top: 30px;
 }
 
 .district_box {
@@ -68,7 +78,6 @@ li {
 }
 
 .district-list {
-  padding-top: 1rem;
   display: flex;
   align-content: center;
   justify-content: center;
@@ -80,4 +89,5 @@ li {
   margin: 10px;
   text-transform: uppercase;
   font-size: small;
+  letter-spacing: 2px;
 }

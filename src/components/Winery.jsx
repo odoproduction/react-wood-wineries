@@ -3,7 +3,7 @@ import Favorite from './Favorite'
 import Contact from './Contact'
 
 const Winery = (props) => {
-// console.log(props)
+
   return <div>
     <div className="card">
     <li>
@@ -13,9 +13,9 @@ const Winery = (props) => {
         name={props.name}
         phone={props.phone}
         contact={props.location}/></div>
-        <br></br>
       <a href={props.web_link} >{props.website}</a>
-      <div className='district-list'>      
+      <p className="district-title">Where to find them:</p>
+      <div className='district-list'>     
         {props.district.map((district) => (
         <District name={district.name} key={district.id}/>))}</div>
     </li>
